@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methodology}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Theory of STFT}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Class definition}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Parallel Implementation Consideration}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Parallel STFT calculation}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Parallel image generation}{subsection.2.3}% 7
+\BOOKMARK [1][-]{section.3}{Result \046 Discussion}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Equality between sequential and parallel implementation}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Experiment 1: Pure openMP}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Experiment Setup}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Experiment Result}{subsection.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Experiment 2: Mixed MPI and openMP Programming}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Mixed Programming}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Experiment Setup}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Experiment Result}{subsection.3.3}% 16
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 17

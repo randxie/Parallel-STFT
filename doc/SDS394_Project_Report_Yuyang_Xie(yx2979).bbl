@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{TFTB-38:online}
+``Tftb -- time-frequency toolbox.'' \url{http://tftb.nongnu.org/demos.html}.
+\newblock (Accessed on 05/10/2016).
+
+\bibitem{leon1995time}
+C.~Leon, ``Time frequency analysis theory and applications,'' {\em USA:
+  Pnentice Hall}, 1995.
+
+\bibitem{ThePh65:online}
+``The phase vocoder – part i | cycling ’74.''
+  \url{https://cycling74.com/2006/11/02/the-phase-vocoder-%E2%80%93-part-i/#.VzKMoSCrTRY}.
+\newblock (Accessed on 05/10/2016).
+
+\end{thebibliography}

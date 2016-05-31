@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SDS394_Project_Report_Yuyang_Xie(yx2979).aux
+The style file: ieeetr.bst
+Database file #1: mycite.bib
+You've used 3 entries,
+            1876 wiz_defined-function locations,
+            491 strings with 3908 characters,
+and the built_in function-call counts, 377 in all, are:
+= -- 35
+> -- 6
+< -- 0
++ -- 4
+- -- 1
+* -- 15
+:= -- 55
+add.period$ -- 5
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 17
+empty$ -- 54
+format.name$ -- 1
+if$ -- 96
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 1
+newline$ -- 14
+num.names$ -- 1
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 0
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 1
+width$ -- 4
+write$ -- 26
